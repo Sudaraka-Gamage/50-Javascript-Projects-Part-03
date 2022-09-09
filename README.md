@@ -14,6 +14,13 @@
 ![Screenshot (1952)](https://user-images.githubusercontent.com/86683029/188697701-e7c5351f-79a6-4db5-b21b-cc051ee6a659.png)
 
 # event-keycodes
+![Screenshot (1955)](https://user-images.githubusercontent.com/86683029/189411396-0302c2ac-262c-4988-85b3-dad5f0c3e75e.png)
+![Screenshot (1957)](https://user-images.githubusercontent.com/86683029/189411407-f7c3b92b-e5f5-4a57-b79a-7b0cd51c5b20.png)
+![Screenshot (1958)](https://user-images.githubusercontent.com/86683029/189411409-e0381631-b602-4f75-b27e-9288d9be6e9c.png)
 
 # expanding-cards
+![Screenshot (1959)](https://user-images.githubusercontent.com/86683029/189411436-e3a3fa4d-7349-4153-813c-3acfc7573230.png)
+![Screenshot (1960)](https://user-images.githubusercontent.com/86683029/189411467-ca00ebc2-5449-4bec-b286-fbd0d1a20931.png)
+![Screenshot (1961)](https://user-images.githubusercontent.com/86683029/189411501-771e8c8c-fc26-4eff-85a8-312aad2130a4.png)
+![Screenshot (1962)](https://user-images.githubusercontent.com/86683029/189411530-1ec13629-aefa-43fe-a559-62435716194c.png)
 
